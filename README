@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=639
+
+Gmsh (http://www.geuz.org/gmsh) is an automatic 3D finite element mesh generator (primarily Delaunay) with build-in CAD and post-processing facilities.This simple script helps vim users in daily work providing color and syntax support.
